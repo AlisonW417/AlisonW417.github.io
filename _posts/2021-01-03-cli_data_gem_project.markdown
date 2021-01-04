@@ -9,7 +9,7 @@ permalink:  cli_data_gem_project
 # Project Summary
 Creating the CLI Data Gem Project marked the first milestone in my journey through the self-paced software engineering curriculum. I decided to scrape data from a recipe website, https://www.skinnytaste.com/. By using object oriented ruby, the user is presented with a list of recipe categories. The program then prompts the user through a sequence of selections to ultimately view a recipe's ingredient list and cooking instructions. 
 
-**My Skinnytaste Recipes project includes the below four classes: **
+My Skinnytaste Recipes project includes the below four classes:
 
 **CLI Class** 
 
