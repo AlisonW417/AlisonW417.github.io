@@ -41,7 +41,7 @@ I used the above helper methods in my controller routes for both users and rides
             redirect '/rides'
         end 
     end 
-	```
+```
 	
 Creating a simple, yet functional Content Management System has been an exciting experience, and I plan to use it to connect with other cyclists in my area. I hope to continue adding functionality to this project as I learn more throughout the Flatiron Software Engineering Program.
 
