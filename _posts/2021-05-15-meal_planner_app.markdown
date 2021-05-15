@@ -1,11 +1,11 @@
 ---
 layout: post
 title:      "Meal Planner App"
-date:       2021-05-15 15:35:10 +0000
+date:       2021-05-15 11:35:10 -0400
 permalink:  meal_planner_app
 ---
 
-#### Building a single page application with HTML / CSS / JavaScript frontend and Rails API backend
+## Building a single page application with HTML / CSS / JavaScript frontend and Rails API backend
 
 Using JavaScript to create a single page “Meal Planner” application was the goal of this project build. The final application allows a user to plan and log recipes and create daily menus. Users are able to plan and prep their meals ahead of time as well as simplify and limit trips to the grocery store. 
 
